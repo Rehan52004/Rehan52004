@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://abdul-rehan.netlify.app](https://abdul-rehan.netlify.app)
+- 👨‍💻 All of my projects are available at [https://abdul-rehan.netlify.app](https://abdulrehanportfolio.netlify.app)
 
 - 💬 Ask me about **Frontend Development**
 
