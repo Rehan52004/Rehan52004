@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abdulrehanofficial1@gmail.com**
 
-- ⚡ Fun fact **Shy**
+- ⚡ Fun fact **Noting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
